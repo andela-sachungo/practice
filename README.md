@@ -29,3 +29,8 @@ E.g.
 
 * Accessed the Homestead.yaml and host files and modified them to add the tripped application.
 
+## CircleCI
+* Signed in via github
+* Added the repo to be tested
+* Updated the PHP version of CircleCI
+*Added the environmrnt variable (generated using php artisan key:generate) to the CircleCI project folder
