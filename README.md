@@ -33,4 +33,4 @@ E.g.
 * Signed in via github
 * Added the repo to be tested
 * Updated the PHP version of CircleCI
-*Added the environmrnt variable (generated using php artisan key:generate) to the CircleCI project folder
+* Added the environment variable (generated using php artisan key:generate) to the CircleCI project folder
