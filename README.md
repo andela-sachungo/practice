@@ -34,3 +34,8 @@ E.g.
 * Added the repo to be tested
 * Updated the PHP version of CircleCI
 * Added the environment variable (generated using php artisan key:generate) to the CircleCI project folder
+
+##StyleCI
+* Signed in via github
+* Choose the repo
+* Tell StyleCI to use laravel presets
